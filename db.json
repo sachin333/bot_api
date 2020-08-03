@@ -7,5 +7,17 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "book_room":{
+  "fulfillmentMessages": [
+    {
+      "text": {
+        "text": [
+          "Book has been confirmed. Details has been sent on your email id"
+        ]
+      }
+    }
+  ]
+}
+  
 }
